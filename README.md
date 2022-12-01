@@ -1,6 +1,4 @@
 
-![](https://chuquan-public-r-001.oss-cn-shanghai.aliyuncs.com/life/WechatIMG1315.jpeg?x-oss-process=image/resize,w_400)
-
 ### Hi there 👋
 
 I’m Bao Chuquan. Here are some facts about me.
