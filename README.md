@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**baochuquan/baochuquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://chuquan-public-r-001.oss-cn-shanghai.aliyuncs.com/life/WechatIMG1315.jpeg?x-oss-process=image/resize,w_400)
 
-Here are some ideas to get you started:
+I’m Bao Chuquan. Here are some facts about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   💼 I'm currently working at @Yuanfudao.
+*   🎨 I'm a soul painter who has sealed his pen for many years and has a self-righteous aesthetic.
+*   🏊 I'm a amateur swimmer. I have learned all kinds of swimmings through self-study.
+*   🏃 I'm an outdoor runner. I run 10 km every time I run.
+*   🏀 I'm a healthy basketball player, a low profile 3D player.
+*   🖊 I'm a amateur blogger, mainly record my own understanding of certain technologies. There is my blog: [chuquan.me](http://chuquan.me)
+*   📚 I'm a technical books collector. I prefer computer science, underlying principles, programming languages, like to study the underlying implementation principles of technology.
+*   📫 How to reach me: baochuquan@163.com
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=baochuquan&show_icons=true" alt="Bao Chuquan's Github Stats" />
