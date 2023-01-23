@@ -5,7 +5,7 @@ I’m Bao Chuquan. Here are some facts about me.
 
 *   💼 I'm currently working at @Yuanfudao.
 *   🎨 I'm a soul painter who has sealed his pen for many years and has a self-righteous aesthetic.
-*   🏊 I'm an amateur swimmer. I have learned all kinds of swimmings through self-study.
+*   🏊 I'm an amateur swimmer. I taught myself all kinds of swimmings.
 *   🏃 I'm an outdoor runner. I run 10 km every time I run.
 *   🏀 I'm a healthy basketball player, a low profile 3D player.
 *   🖊 I'm an amateur blogger, mainly record my own understanding of certain technologies. There is my blog: [chuquan.me](http://chuquan.me)
